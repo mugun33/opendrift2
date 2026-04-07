@@ -5,3 +5,5 @@ numpy
 xarray
 netCDF4
 opendrift
+scipy
+pyproj
